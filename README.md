@@ -2,7 +2,7 @@
 
 Engineering student at Mines Saint-Étienne / EM Lyon.
 
-Spent 6 months at Thales building cyclic agent systems that automate support workflows —
+Spent 6 months at Thales building cyclic agent systems that automate support workflows,
 LangGraph pipelines, Jira API integration, standardised contracts between agents.
 
 Currently finishing my degree. Exchange semester at Sogang Business School (Seoul) March–June 2027.
